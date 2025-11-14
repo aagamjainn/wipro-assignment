@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+sqlalchemy
+pydantic
+alembic
+passlib
+python-magic; platform_system != 'Windows'
+python-dotenv
